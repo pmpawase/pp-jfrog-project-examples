@@ -1,2 +1,2 @@
 FROM hello-world:latest
-RUN yum install -y wget
+FROM busybox:latest
